@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+joblib
+# Pinned to the version used in Google Colab when playlist_curator_final.joblib was created
+scikit-learn==1.6.1

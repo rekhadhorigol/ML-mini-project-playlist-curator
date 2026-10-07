@@ -102,7 +102,7 @@ Both members wrote and ran code in the notebook and are responsible for explaini
 ├── README.md
 ├── docs/
 │   ├── summary.pdf                     # project write-up
-│   └── slides.pptx                     # review presentation
+│   └── Presentation_Team_23.pptx                     # review presentation
 └── streamlit_app/
     ├── app.py                          # interactive demo
     ├── requirements.txt
