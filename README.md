@@ -7,6 +7,8 @@
 | Rekha Dhorigol | PES1UG24CS370 |
 | Sai Manogna B V | PES1UG24CS399 |
 
+*The git repo is kept public so that it is easy to evaluate*
+
 ## 1. Problem statement
 
 Given a set of playlists and a new, unclassified song, can we place the song in the best-matching playlist, or suggest that a **new playlist** be created?
@@ -102,7 +104,7 @@ Both members wrote and ran code in the notebook and are responsible for explaini
 ├── README.md
 ├── docs/
 │   ├── summary.pdf                     # project write-up
-│   └── Presentation_Team_23.pptx                     # review presentation
+│   └── Presentation_Team_23_final.pptx                     # review presentation
 └── streamlit_app/
     ├── app.py                          # interactive demo
     ├── requirements.txt
@@ -152,3 +154,6 @@ Set the sliders for a song's audio features and metadata and click **Suggest pla
 - A. Awadelkarim and K. Coelho, *Training a Playlist Curator Based on User Taste*, Stanford University, 2018. (Baseline for this project. The authors' public repos, `kevin-coelho/playlistr-ml-v1` and `playlistr-ml-py-v1`, were read for background only; all code in this repository is our own.)
 - Kaggle: *30000 Spotify Songs*, `joebeachcapital/30000-spotify-songs`.
 - scikit-learn, pandas, matplotlib, seaborn, Streamlit.
+
+*Author*
+*Rekha Dhorigol*
